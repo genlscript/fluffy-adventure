@@ -1,3 +1,3 @@
 # fluffy adventure!
 
-## repositorie for random stuff
+## repository for random stuff
