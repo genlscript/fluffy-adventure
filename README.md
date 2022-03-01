@@ -5,6 +5,8 @@
 
 # BATCH MALWARE
 
+--------------------------------------------------------------------------------------
+
 ## Legal disclaimer:
 **Usage of Batch Malware for any harmful intent whatsoever is ILLEGAL**. 
 
