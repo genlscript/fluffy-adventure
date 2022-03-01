@@ -1,6 +1,0 @@
-#dino hack
-
-##how to use
-**type chrome://dino in your search bar**
-**click inspect > console, and now paste this code in**
-Runner.instance_.gameOver = () => {}
